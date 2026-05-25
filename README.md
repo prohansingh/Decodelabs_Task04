@@ -163,38 +163,17 @@ The dashboard includes:
 
 This project successfully demonstrates the use of data visualization and storytelling techniques to transform raw business data into meaningful insights. The dashboard helps in understanding sales trends, customer behavior, and product performance, which can support better business decision-making.
 
----
+**Screenshots**
 
-# Repository Contents
+<img width="898" height="518" alt="top_products" src="https://github.com/user-attachments/assets/424a27f9-811a-43af-92cf-8b41ebd57d74" />
+<img width="1366" height="768" alt="referral_source_analysis" src="https://github.com/user-attachments/assets/3ef9ade1-5f80-4da8-9f08-1f6b7e7eda0b" />
+<img width="1366" height="768" alt="Quantity Sold by Product" src="https://github.com/user-attachments/assets/cf14540b-3812-4d8a-9b60-68dc5792031b" />
+<img width="1366" height="768" alt="KPI_4" src="https://github.com/user-attachments/assets/1724dfba-663e-46a4-ab6e-967fec5d296c" />
+<img width="1366" height="768" alt="KPI_3" src="https://github.com/user-attachments/assets/2aa505e7-fb13-4315-8bde-5071460434d5" />
+<img width="1366" height="768" alt="KPI_2" src="https://github.com/user-attachments/assets/e111ecc3-4318-4525-a18b-22a0a4102e8d" />
+<img width="1366" height="768" alt="KPI_1" src="https://github.com/user-attachments/assets/6284b93b-ee30-4c53-8fee-4f4ce16091f6" />
+<img width="1219" height="1259" alt="Final_Dashboard" src="https://github.com/user-attachments/assets/14f27458-6096-403c-9788-2c189f32b626" />
 
-## Dataset Folder
-Contains:
-- Original dataset
-- Cleaned dataset
-
-## Python_Code Folder
-Contains:
-- Data cleaning code
-- EDA and visualization code
-
-## Dashboard Folder
-Contains:
-- Tableau dashboard file
-- Dashboard PDF
-- Dashboard image
-
-## Screenshots Folder
-Contains:
-- Visualization screenshots
-- Final dashboard screenshots
-
-## Documentation Folder
-Contains:
-- Project report
-- Presentation
-- Insights document
-
----
 
 # Future Improvements
 
